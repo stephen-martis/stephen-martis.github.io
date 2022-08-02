@@ -14,13 +14,8 @@ Education
 * PhD in Physics, UC Berkeley, 2021
 * MS in Physics, UC Berkeley, 2017
 * AB in Physics, Certificate in Creative Writing (Poetry), Princeton University, 2012
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Co-founder, Bay Area Microbiome Meetup
+* Co-founder, co-organizer, Bay Area Microbiome Meetup (2017-2019)
+* Compass Project mentor (2014-2015)
