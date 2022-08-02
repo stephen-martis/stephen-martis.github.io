@@ -30,3 +30,4 @@ Miscellanea
 ======
 * I played in a [band](https://energy-guide.bandcamp.com/track/handful-of-ash-single-edit) with a [sleep scientist/nature photographer](https://joewiner.com/) and a [solar physicist/dj](https://soundcloud.com/m4ssflow/mfmnthly-michael-mcmanus?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
 * I'm an avid film photographer.  Photography to come.
+* Eagle scout.
