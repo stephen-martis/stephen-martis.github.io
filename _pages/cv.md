@@ -22,8 +22,8 @@ Education
   
 Service and leadership
 ======
-* Co-founder, co-organizer, SF Microbiome Meetup (2017-2019)
-* Compass Project mentor (2014-2015)
+* Co-founder, co-organizer, [SF Microbiome Meetup](https://www.meetup.com/sfmicrobiome/) (2017-2019)
+* Mentor, [Compass Project](https://www.ocf.berkeley.edu/~comproj/) (2014-2016)
 
 
 Miscellanea
