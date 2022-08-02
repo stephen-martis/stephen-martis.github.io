@@ -8,5 +8,3 @@ citation: 'Good, BH, S Martis, O Hallatschek (2018). &quot;Adaptation limits eco
 ---
 
 'Diversification and selection in the competition for substitutable resources'
-
-[comment]: # (paperurl: '[Paper link] ([https://www.pnas.org/doi/abs/10.1073/pnas.1807530115)
