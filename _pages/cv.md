@@ -19,3 +19,9 @@ Service and leadership
 ======
 * Co-founder, co-organizer, SF Microbiome Meetup (2017-2019)
 * Compass Project mentor (2014-2015)
+
+
+Miscellanea
+======
+* I played in a [band](https://energy-guide.bandcamp.com/track/handful-of-ash-single-edit) with a sleep scientist and a solar physicist.
+* I am an avid film photographer.
