@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+Employment
+======
+* Research fellow, Memorial Sloan Kettering Cancer Center, 2021-present
+
 Education
 ======
 * PhD in Physics, UC Berkeley, 2021
