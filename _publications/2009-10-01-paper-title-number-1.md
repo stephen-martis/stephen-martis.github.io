@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Adaptation limits ecological diversification and promotes ecological tinkering during the competition for substitutable resources"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-adaptation-resources
+excerpt: 'Identifies a balance between diversification and selection in the competition for substitutable resources'
+date: 2018
+venue: 'PNAS'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.pnas.org/doi/abs/10.1073/pnas.1807530115)'
+citation: 'Good, BH, S Martis, O Hallatschek (2018). &quot;Adaptation limits ecological diversification and promotes ecological tinkering during the competition for substitutable resources.&quot; <i>PNAS</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
